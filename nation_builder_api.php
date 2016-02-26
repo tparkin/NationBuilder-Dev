@@ -106,7 +106,7 @@
 			'first_name' => "Joe",
 			'email' => "johndoe@gmail.com",
 			"phone" => "303-555-0841"
-		);
+		)
 	);
 	$api->updatePerson($person_id, $data);
 
